@@ -1,3 +1,5 @@
 env
 Dockerfile
 tasks.db
+__pycache__
+.python-version
